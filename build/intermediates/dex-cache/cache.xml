@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Kosha\.android\build-cache\7f57d3f858613623da24b889dd864ecb08898271\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\Kosha\AndroidStudioProjects\GestureClassification\app\build\intermediates\pre-dexed\debug\classes_0e6916cbbbd3459e792429ce38133b4dd0ed165b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Kosha\.android\build-cache\0a04f1dd47a3903523e3156601fdabd24603bf48\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\Kosha\AndroidStudioProjects\GestureClassification\app\build\intermediates\pre-dexed\debug\classes_bb7e698d361f43d73b12e9a4033f14c4386abf0a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Kosha\.android\build-cache\0e40be83c4d951827aa12223ce8d9a085fd7cce2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\Kosha\AndroidStudioProjects\GestureClassification\app\build\intermediates\pre-dexed\debug\classes_569497ec945a14d2a15e9c41ce294e732af21c78.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Kosha\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\Kosha\AndroidStudioProjects\GestureClassification\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_95b73522875fcd1708066e83ef9758db6ee9effc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Kosha\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\Kosha\AndroidStudioProjects\GestureClassification\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_561f9f06c9032e55cae2cccdc0e1d7929081d029.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Kosha\.android\build-cache\198afd4b41b8bdecb3b67d1cd8a04ea4abc29996\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\Kosha\AndroidStudioProjects\GestureClassification\app\build\intermediates\pre-dexed\debug\classes_fdad96a25a0e66d15f7f31d3b628daa4a477ed4e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Kosha\.android\build-cache\4cf2ab503a66dd73b0695d1fa926e46805f22171\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\Kosha\AndroidStudioProjects\GestureClassification\app\build\intermediates\pre-dexed\debug\classes_e448041b74d166b538759544e2116aed3f35f8ea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Kosha\.android\build-cache\f7c8c72ca591490d3c3175cad7a9753914f9c5b1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\Kosha\AndroidStudioProjects\GestureClassification\app\build\intermediates\pre-dexed\debug\classes_9f02cf2d5f6e2bc6b013a6f820918e0ff49fe1a6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Kosha\.android\build-cache\7d3eb9d3a106ba64475dca5391e899696bc6f33e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\Kosha\AndroidStudioProjects\GestureClassification\app\build\intermediates\pre-dexed\debug\classes_ebce0d8113aa65b103296a083d09d4e6040cae00.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Kosha\.android\build-cache\9c79b7807b6ae6a5339c3da4a942037e4e4acc0c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\Kosha\AndroidStudioProjects\GestureClassification\app\build\intermediates\pre-dexed\debug\classes_cd2c69d7432f837d1802b7cbcab2b5be1f25f6b2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Kosha\.android\build-cache\b41eee9ad4a92153e505ceea31c7f60953429f0a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\Kosha\AndroidStudioProjects\GestureClassification\app\build\intermediates\pre-dexed\debug\classes_1523bc9fca8ad537b6ec1cc66e2e2b733e10e263.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Kosha\AndroidStudioProjects\GestureClassification\EJML-core-0.26\EJML-core-0.26.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4d7c1d7b16b80875d7fba8d72b2e24eece176124">
+        <dex dex="C:\Users\Kosha\AndroidStudioProjects\GestureClassification\app\build\intermediates\pre-dexed\debug\EJML-core-0.26_bfecc3246465cb2b3305884b04fe63b6369d5603.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Kosha\.android\build-cache\1c29fc990be6064615c392f3996f6996e692cc0d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Kosha\AndroidStudioProjects\GestureClassification\app\build\intermediates\pre-dexed\debug\classes_1346ab615ac00fc01d2f876e015d4ee26502812b.jar" />
+    </item>
+
+</items>

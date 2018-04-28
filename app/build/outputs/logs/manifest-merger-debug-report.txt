@@ -1,0 +1,91 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Kosha\AndroidStudioProjects\GestureClassification\app\src\main\AndroidManifest.xml:2:1-23:12
+	package
+		ADDED from C:\Users\Kosha\AndroidStudioProjects\GestureClassification\app\src\main\AndroidManifest.xml:3:5-54
+		INJECTED from C:\Users\Kosha\AndroidStudioProjects\GestureClassification\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Kosha\AndroidStudioProjects\GestureClassification\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Kosha\AndroidStudioProjects\GestureClassification\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Kosha\AndroidStudioProjects\GestureClassification\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Kosha\AndroidStudioProjects\GestureClassification\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\Kosha\AndroidStudioProjects\GestureClassification\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Kosha\AndroidStudioProjects\GestureClassification\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\Kosha\AndroidStudioProjects\GestureClassification\app\src\main\AndroidManifest.xml:5:5-80
+	android:name
+		ADDED from C:\Users\Kosha\AndroidStudioProjects\GestureClassification\app\src\main\AndroidManifest.xml:5:22-78
+application
+ADDED from C:\Users\Kosha\AndroidStudioProjects\GestureClassification\app\src\main\AndroidManifest.xml:7:5-21:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Kosha\.android\build-cache\0e40be83c4d951827aa12223ce8d9a085fd7cce2\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Kosha\.android\build-cache\1c29fc990be6064615c392f3996f6996e692cc0d\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Kosha\.android\build-cache\4cf2ab503a66dd73b0695d1fa926e46805f22171\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Kosha\.android\build-cache\198afd4b41b8bdecb3b67d1cd8a04ea4abc29996\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Kosha\.android\build-cache\b41eee9ad4a92153e505ceea31c7f60953429f0a\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Kosha\.android\build-cache\7f57d3f858613623da24b889dd864ecb08898271\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Kosha\.android\build-cache\9c79b7807b6ae6a5339c3da4a942037e4e4acc0c\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Kosha\.android\build-cache\f7c8c72ca591490d3c3175cad7a9753914f9c5b1\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Kosha\.android\build-cache\7d3eb9d3a106ba64475dca5391e899696bc6f33e\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Kosha\.android\build-cache\0a04f1dd47a3903523e3156601fdabd24603bf48\output\AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from C:\Users\Kosha\AndroidStudioProjects\GestureClassification\app\src\main\AndroidManifest.xml:10:9-41
+	android:supportsRtl
+		ADDED from C:\Users\Kosha\AndroidStudioProjects\GestureClassification\app\src\main\AndroidManifest.xml:12:9-35
+	android:roundIcon
+		ADDED from C:\Users\Kosha\AndroidStudioProjects\GestureClassification\app\src\main\AndroidManifest.xml:11:9-54
+	android:allowBackup
+		ADDED from C:\Users\Kosha\AndroidStudioProjects\GestureClassification\app\src\main\AndroidManifest.xml:8:9-35
+	android:icon
+		ADDED from C:\Users\Kosha\AndroidStudioProjects\GestureClassification\app\src\main\AndroidManifest.xml:9:9-43
+	android:theme
+		ADDED from C:\Users\Kosha\AndroidStudioProjects\GestureClassification\app\src\main\AndroidManifest.xml:13:9-40
+activity#com.example.kosha.gestureclassification.MainActivity
+ADDED from C:\Users\Kosha\AndroidStudioProjects\GestureClassification\app\src\main\AndroidManifest.xml:14:9-20:20
+	android:name
+		ADDED from C:\Users\Kosha\AndroidStudioProjects\GestureClassification\app\src\main\AndroidManifest.xml:14:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Kosha\AndroidStudioProjects\GestureClassification\app\src\main\AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Kosha\AndroidStudioProjects\GestureClassification\app\src\main\AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from C:\Users\Kosha\AndroidStudioProjects\GestureClassification\app\src\main\AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Kosha\AndroidStudioProjects\GestureClassification\app\src\main\AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from C:\Users\Kosha\AndroidStudioProjects\GestureClassification\app\src\main\AndroidManifest.xml:18:27-74
+uses-sdk
+INJECTED from C:\Users\Kosha\AndroidStudioProjects\GestureClassification\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Kosha\.android\build-cache\0e40be83c4d951827aa12223ce8d9a085fd7cce2\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Kosha\.android\build-cache\1c29fc990be6064615c392f3996f6996e692cc0d\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Kosha\.android\build-cache\4cf2ab503a66dd73b0695d1fa926e46805f22171\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Kosha\.android\build-cache\198afd4b41b8bdecb3b67d1cd8a04ea4abc29996\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Kosha\.android\build-cache\b41eee9ad4a92153e505ceea31c7f60953429f0a\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Kosha\.android\build-cache\7f57d3f858613623da24b889dd864ecb08898271\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Kosha\.android\build-cache\9c79b7807b6ae6a5339c3da4a942037e4e4acc0c\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Kosha\.android\build-cache\f7c8c72ca591490d3c3175cad7a9753914f9c5b1\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Kosha\.android\build-cache\7d3eb9d3a106ba64475dca5391e899696bc6f33e\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Kosha\.android\build-cache\0a04f1dd47a3903523e3156601fdabd24603bf48\output\AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Kosha\.android\build-cache\0e40be83c4d951827aa12223ce8d9a085fd7cce2\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\Users\Kosha\AndroidStudioProjects\GestureClassification\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Kosha\AndroidStudioProjects\GestureClassification\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Kosha\AndroidStudioProjects\GestureClassification\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Kosha\AndroidStudioProjects\GestureClassification\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Kosha\.android\build-cache\0e40be83c4d951827aa12223ce8d9a085fd7cce2\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Kosha\.android\build-cache\1c29fc990be6064615c392f3996f6996e692cc0d\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Kosha\.android\build-cache\4cf2ab503a66dd73b0695d1fa926e46805f22171\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Kosha\.android\build-cache\198afd4b41b8bdecb3b67d1cd8a04ea4abc29996\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Kosha\.android\build-cache\b41eee9ad4a92153e505ceea31c7f60953429f0a\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Kosha\.android\build-cache\7f57d3f858613623da24b889dd864ecb08898271\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Kosha\.android\build-cache\9c79b7807b6ae6a5339c3da4a942037e4e4acc0c\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Kosha\.android\build-cache\f7c8c72ca591490d3c3175cad7a9753914f9c5b1\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Kosha\.android\build-cache\7d3eb9d3a106ba64475dca5391e899696bc6f33e\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Kosha\.android\build-cache\0e40be83c4d951827aa12223ce8d9a085fd7cce2\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Kosha\.android\build-cache\0e40be83c4d951827aa12223ce8d9a085fd7cce2\output\AndroidManifest.xml:26:9-47
